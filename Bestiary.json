@@ -1,0 +1,11 @@
+{
+  "Cat": {
+    "name": "Silence",
+    "fraction": "Party",
+    "size": 5,
+    "maxhp": 26,
+    "speed": 12,
+    "initBonus": 0,
+    "armorClass": 15
+  }
+}
